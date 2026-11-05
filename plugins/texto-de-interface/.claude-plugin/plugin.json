@@ -1,0 +1,19 @@
+{
+  "name": "texto-de-interface",
+  "description": "Botões, erros, estados vazios e confirmações em português do Brasil, com voz clara, ativa e consistente.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#texto-de-interface",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "ux writing",
+    "microcopy",
+    "pt-br",
+    "conteúdo"
+  ]
+}

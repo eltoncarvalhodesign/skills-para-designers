@@ -1,0 +1,19 @@
+{
+  "name": "acessibilidade",
+  "description": "Contraste, teclado, foco, leitor de tela, formulários, toque e zoom no nível AA, com uma auditoria rápida e priorizada para telas existentes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#acessibilidade",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "acessibilidade",
+    "a11y",
+    "wcag",
+    "auditoria"
+  ]
+}

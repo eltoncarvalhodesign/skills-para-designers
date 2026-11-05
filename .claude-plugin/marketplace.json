@@ -38,6 +38,20 @@
       "category": "design"
     },
     {
+      "name": "acessibilidade",
+      "source": "./plugins/acessibilidade",
+      "description": "Contraste, teclado, foco, leitor de tela, formulários, toque e zoom no nível AA, com uma auditoria rápida e priorizada para telas existentes.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "texto-de-interface",
+      "source": "./plugins/texto-de-interface",
+      "description": "Botões, erros, estados vazios e confirmações em português do Brasil, com voz clara, ativa e consistente.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
       "name": "grade-4px",
       "source": "./plugins/grade-4px",
       "description": "Todo espaçamento numa grade de 4 px: margens, paddings, gaps e alturas, com conferência antes de entregar.",

@@ -8,6 +8,8 @@ Primeira versão pública.
 - `direcao-de-arte` 1.0.0
 - `acabamento` 1.0.0
 - `temas-prontos` 1.0.0
+- `acessibilidade` 1.0.0
+- `texto-de-interface` 1.0.0
 - `grade-4px` 1.0.0
 - `menos-e-mais` 1.0.0
 - `mobile-cara-de-app` 1.0.0

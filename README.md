@@ -23,6 +23,8 @@ Troque `grade-4px` pela skill que quiser. Para atualizar depois: `/plugin market
 | `direcao-de-arte` | Assunto, tom, tipografia, cor e uma única ousadia definidos antes do código, para fugir do visual genérico de IA. |
 | `acabamento` | Estados de cada componente, microinterações, curvas e durações, toque e detalhes invisíveis. |
 | `temas-prontos` | Seis temas com tokens claro e escuro e contraste conferido, ou um tema novo a partir da sua marca. |
+| `acessibilidade` | Contraste, teclado, foco, leitor de tela, formulários e zoom no nível AA, com auditoria rápida e priorizada. |
+| `texto-de-interface` | Botões, erros, estados vazios e confirmações em português do Brasil, com voz clara e consistente. |
 | `grade-4px` | Todo espaçamento numa grade de 4 px, com conferência antes de entregar. |
 | `menos-e-mais` | Uma ideia por tela, pop-ups sem rolagem, desenho antes de gráfico, movimento simples. |
 | `mobile-cara-de-app` | Celular com cara de app: bottom sheets, botões na zona do polegar, estados vazios, áreas seguras. |
