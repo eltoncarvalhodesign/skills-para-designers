@@ -1,0 +1,69 @@
+{
+  "name": "skills-para-designers",
+  "owner": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br"
+  },
+  "metadata": {
+    "description": "Skills de design para o Claude Code, feitas por designer, em português.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "processo-frontend",
+      "source": "./plugins/processo-frontend",
+      "description": "Processo para designers implementarem frontend com o Claude como dev sênior: um card por PR, worktree própria, plano e evidência como pontos de parada, revisão independente.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "direcao-de-arte",
+      "source": "./plugins/direcao-de-arte",
+      "description": "Define assunto, tom, tipografia, cor e uma única ousadia antes do código, para fugir do visual genérico de IA sem atropelar o design system.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "acabamento",
+      "source": "./plugins/acabamento",
+      "description": "Estados de cada componente, microinterações, curvas e durações, toque e os detalhes invisíveis que fazem a interface parecer cara.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "temas-prontos",
+      "source": "./plugins/temas-prontos",
+      "description": "Seis temas com tokens claro e escuro, par tipográfico e contraste conferido, ou um tema novo a partir da sua marca.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "grade-4px",
+      "source": "./plugins/grade-4px",
+      "description": "Todo espaçamento numa grade de 4 px: margens, paddings, gaps e alturas, com conferência antes de entregar.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "menos-e-mais",
+      "source": "./plugins/menos-e-mais",
+      "description": "Uma ideia por tela, pop-ups sem rolagem, desenho antes de gráfico e movimento simples.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "mobile-cara-de-app",
+      "source": "./plugins/mobile-cara-de-app",
+      "description": "Celular com cara de app nativo: bottom sheets, botões na zona do polegar, estados vazios e áreas seguras.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "site-leve",
+      "source": "./plugins/site-leve",
+      "description": "Animações só em transform e opacity, carregamento do pesado depois e nada rodando com a aba escondida.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}

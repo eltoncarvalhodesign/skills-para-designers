@@ -1,0 +1,19 @@
+{
+  "name": "grade-4px",
+  "description": "Todo espaçamento numa grade de 4 px: margens, paddings, gaps e alturas, com conferência antes de entregar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#grade-4px",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "espaçamento",
+    "css",
+    "tailwind",
+    "layout"
+  ]
+}

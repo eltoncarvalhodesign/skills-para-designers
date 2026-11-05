@@ -1,0 +1,19 @@
+{
+  "name": "menos-e-mais",
+  "description": "Uma ideia por tela, pop-ups sem rolagem, desenho antes de gráfico e movimento simples.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#menos-e-mais",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "simplicidade",
+    "ui",
+    "modais",
+    "dados"
+  ]
+}

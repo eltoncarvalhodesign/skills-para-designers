@@ -1,0 +1,19 @@
+{
+  "name": "temas-prontos",
+  "description": "Seis temas com tokens claro e escuro, par tipográfico e contraste conferido, ou um tema novo a partir da sua marca.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#temas-prontos",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "tema",
+    "cores",
+    "dark mode",
+    "tokens"
+  ]
+}

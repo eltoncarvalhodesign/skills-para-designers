@@ -1,0 +1,19 @@
+{
+  "name": "direcao-de-arte",
+  "description": "Define assunto, tom, tipografia, cor e uma única ousadia antes do código, para fugir do visual genérico de IA sem atropelar o design system.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#direcao-de-arte",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "direção de arte",
+    "landing page",
+    "tipografia",
+    "cor"
+  ]
+}

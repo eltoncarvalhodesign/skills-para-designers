@@ -1,0 +1,18 @@
+{
+  "name": "mobile-cara-de-app",
+  "description": "Celular com cara de app nativo: bottom sheets, botões na zona do polegar, estados vazios e áreas seguras.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#mobile-cara-de-app",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "mobile",
+    "responsivo",
+    "bottom-sheet"
+  ]
+}

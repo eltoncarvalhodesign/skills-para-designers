@@ -1,0 +1,18 @@
+{
+  "name": "site-leve",
+  "description": "Animações só em transform e opacity, carregamento do pesado depois e nada rodando com a aba escondida.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#site-leve",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "performance",
+    "animação",
+    "motion"
+  ]
+}

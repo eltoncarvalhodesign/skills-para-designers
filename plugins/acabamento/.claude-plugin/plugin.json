@@ -1,0 +1,19 @@
+{
+  "name": "acabamento",
+  "description": "Estados de cada componente, microinterações, curvas e durações, toque e os detalhes invisíveis que fazem a interface parecer cara.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#acabamento",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "microinteração",
+    "animação",
+    "estados",
+    "polimento"
+  ]
+}

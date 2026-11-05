@@ -1,0 +1,19 @@
+{
+  "name": "processo-frontend",
+  "description": "Processo para designers implementarem frontend com o Claude como dev sênior: um card por PR, worktree própria, plano e evidência como pontos de parada, revisão independente.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Elton Carvalho",
+    "email": "oi@eltoncarvalho.com.br",
+    "url": "https://eltoncarvalho.com.br"
+  },
+  "homepage": "https://eltoncarvalho.com.br/skills/#processo-frontend",
+  "repository": "https://github.com/eltoncarvalhodesign/skills-para-designers",
+  "license": "MIT",
+  "keywords": [
+    "processo",
+    "frontend",
+    "pr",
+    "evidência"
+  ]
+}
